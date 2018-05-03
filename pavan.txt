@@ -1,2 +1,13 @@
+<<<<<<< HEAD
  my first practice 
 hello evarey one
+=======
+hai
+
+first practice on git command
+
+ok
+
+ hii everyone how are you all
+my third line
+>>>>>>> dev
