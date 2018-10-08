@@ -1,0 +1,7 @@
+vi sum.sh\
+echo -n "enter a number 1 : "
+read a
+echo -n "enter a  number 2 : "
+read b
+c= `expr $a + $b
+echo "sum of $a and $b is : $c"
